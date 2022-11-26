@@ -1,0 +1,6 @@
+list=[2,5,4,6,9,8]
+count =0
+for i in list:
+if i%2==0:
+count=count+i
+print("sum of even numbers:",count)
